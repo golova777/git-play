@@ -5,4 +5,7 @@ import Cocoa
 var str = "Hello, playground"
 
 
+var myName = "Taras"
+
+
 
