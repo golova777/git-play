@@ -8,4 +8,4 @@ var str = "Hello, playground"
 var myName = "Taras"
 
 
-
+print(myName)
